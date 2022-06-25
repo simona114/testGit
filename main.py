@@ -7,7 +7,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('conflict')
     print_hi('PyCharm')
-    print_hi('PyCharm')
-    print_hi('PyCharm')
+
+
+
     print_hi('PyCharm')
     print_hi('PyCharm')
